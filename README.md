@@ -39,7 +39,7 @@ void main() {
   usuario.iniciarSesion();
 }
 ------------------------------------------------------------------------------------
-`## Ejercicio 5`
+`## Ejercicio 5:Sistema de Votación
 
 // Clase base Votante
 class Votante {
