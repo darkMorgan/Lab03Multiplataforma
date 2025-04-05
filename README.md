@@ -38,8 +38,8 @@ void main() {
   // Invocar el método iniciarSesion del mixin Autenticacion
   usuario.iniciarSesion();
 }
-
-## Ejercicio 5: Sistema de Votación
+------------------------------------------------------------------------------------
+`## Ejercicio 5`
 
 // Clase base Votante
 class Votante {
