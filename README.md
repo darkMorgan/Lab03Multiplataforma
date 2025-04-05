@@ -1,9 +1,8 @@
 # Lab03Multiplataforma
 
-codigo
+## Ejercicio 1: Usuario y Autenticación
 
-ejercicio 1:
-
+```dart
 // Definimos la clase base Usuario
 class Usuario {
   String nombre;
@@ -41,12 +40,6 @@ void main() {
 }
 
 
-
-----------------------------------------
-
-
-
-ejericio 5:
 // Clase base Votante
 class Votante {
   String nombre;
